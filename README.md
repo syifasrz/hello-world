@@ -1,2 +1,4 @@
 # hello-world
-First trial
+#H1 Education Background
+B.Sc in Microbiology
+Bandung Institute of Technology
